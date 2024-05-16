@@ -68,5 +68,47 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "Geostorm",
+            "iscore": 5.3,
+            "rating": "PG-13",
+            "runtime": 109,
+            "released": [2017, 10, 20],
+            "country": "USA",
+            "posters": ["img/geostorm1.jpg", "img/geostorm2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt1981128/?ref_=ttrel_ov",
+            "website": "https://www.warnerbros.com/movies/geostorm",
+            "likes": 893,
+            "dislikes": 253,
+            "posterindex": 0
+      },
+      {
+            "title": "Saving Private Ryan",
+            "iscore": 8.6,
+            "rating": "R",
+            "runtime": 169,
+            "released": [1998, 7, 21],
+            "country": "USA",
+            "posters": ["img/savingprivateryan1.jpg","img/savingprivateryan2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0120815/?ref_=chttp_t_24",
+            "website": "https://www.paramountpictures.com/movies/saving-private-ryan",
+            "likes": 822,
+            "dislikes": 98,
+            "posterindex": 0
+      },
+      {
+            "title": "Transformers",
+            "iscore": 7.0,
+            "rating": "PG-13",
+            "runtime": 144,
+            "released": [2007, 8, 3],
+            "country": "USA",
+            "posters": ["img/transformers1.jpg", "img/Transformers2.webp"],
+            "imdb": "https://www.imdb.com/title/tt0418279/?ref_=fn_al_tt_1",
+            "website": "https://www.transformersmovie.com/",
+            "likes": 634,
+            "dislikes": 348,
+            "posterindex": 0
       }
 ]
